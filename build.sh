@@ -5,9 +5,9 @@
 # =======================================================
 
 # 1. 路径配置
-NDK_DIR="/home/edward/toolchains/android-ndk-r29"
-GCC_64_DIR="/home/edward/toolchains/aarch64-linux-android-4.9"
-GCC_32_DIR="/home/edward/toolchains/arm-linux-androideabi-4.9"
+NDK_DIR="~/toolchains/android-ndk-r29"
+GCC_64_DIR="~/toolchains/aarch64-linux-android-4.9"
+GCC_32_DIR="~/toolchains/arm-linux-androideabi-4.9"
 
 KERNEL_DIR="$(pwd)"
 OUT_DIR="${KERNEL_DIR}/out"
